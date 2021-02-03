@@ -9,7 +9,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 - <div>
     <img width="250" height="100" align='left' src="https://scontent.ftrv2-1.fna.fbcdn.net/v/t1.0-9/49175677_970515319811043_7873610188207423488_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=uyQ9GRMxxJcAX80Acfl&_nc_ht=scontent.ftrv2-1.fna&oh=88bc14b2527e61740755760c329c6462&oe=60413FC9" >
-    ... as a <strong>Artificial Intelligence Intern</strong> at IoTIoT.in(ShunyaOS) where I have been assisting in the (design and) development of the Smart City Video Surveillance, using C++.
+    ... as an <strong>Artificial Intelligence Intern</strong> at IoTIoT.in(ShunyaOS) where I have been assisting in the (design and) development of the Smart City Video Surveillance, using C++.
     <br />
     <strong>View: </strong> <a href="http://iotiot.in/" >iotiot.in</a> 
     <br /> 
