@@ -15,7 +15,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="http://iotiot.in/wp-content/uploads/elementor/thumbs/IoTIOT.IN-Logo-ont1qv2hrrfq03gdeejn0z9grnu3pm7lv3t74tk8h4.png" >
+    <img width="250" height="100" align='left' src="https://scontent.ftrv2-1.fna.fbcdn.net/v/t1.0-9/49175677_970515319811043_7873610188207423488_n.png?_nc_cat=105&ccb=2&_nc_sid=e3f864&_nc_ohc=uyQ9GRMxxJcAX80Acfl&_nc_ht=scontent.ftrv2-1.fna&oh=88bc14b2527e61740755760c329c6462&oe=60413FC9" >
     ... as a <strong>Artificial Intelligence Intern</strong> at IoTIoT.in(ShunyaOS) where I have been assisting in the (design and) development of the Smart City Video Surveillance, using C++.
     <br />
     <strong>View: </strong> <a href="http://iotiot.in/" >iotiot.in</a> 
@@ -64,10 +64,6 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
   </p>
 </p>
 
-<div align="right">
-  
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
-</div>
 
 
