@@ -40,9 +40,9 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-  
-                                [![Website Badge](https://img.shields.io/badge/-navaneeth.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/)](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/) 
+  <i>Let's connect and chat! Find me on the ...</i> 
+    
+   [![Website Badge](https://img.shields.io/badge/-navaneeth.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/)](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/) 
    [![Linkedin Badge](https://img.shields.io/badge/-navaneeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navaneeth-dinesh-216a45175/)](https://www.linkedin.com/in/navaneeth-dinesh-216a45175/) 
    [![Medium Badge](https://img.shields.io/badge/-@v.navaneeth-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@navaneethsdk)](https://medium.com/@navaneethsdk) 
    [![Gmail Badge](https://img.shields.io/badge/-v.navaneeth-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.navaneethsdk@gmail.com)](mailto:v.navaneethsdk@gmail.com)
