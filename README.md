@@ -18,7 +18,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
     <img width="250" height="100" align='left' src="http://iotiot.in/wp-content/uploads/elementor/thumbs/IoTIOT.IN-Logo-ont1qv2hrrfq03gdeejn0z9grnu3pm7lv3t74tk8h4.png" >
     ... as a <strong>Artificial Intelligence Intern</strong> at IoTIoT.in(ShunyaOS) where I have been assisting in the (design and) development of the Smart City Video Surveillance, using C++.
     <br />
-    <strong>View: </strong> <a href="https://shunyaos.org/" >edneed.com</a> 
+    <strong>View: </strong> <a href="http://iotiot.in/" >iotiot.in</a> 
     <br /> 
     <br /> 
   </div>
@@ -27,7 +27,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
      <img width="250" height="100" align='right' src="https://jobsnew.analyticsvidhya.com/media/company_logo/2021/01/06/AV_logo_updated.jpg" >
      ... as a <strong>Technical Content Writer</strong> intern at Analytics Vidhya where I have penned down 2 comprehensive and detailed articles covering Deep Learning  concepts.
      <br />
-     <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Geeks for Geeks</a> 
+     <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Medium</a> 
      <br /> 
    </div>
 
@@ -50,19 +50,15 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
   <i>Let's connect and chat! Find me on the web...</i>
   
    [![Website Badge](https://img.shields.io/badge/-navaneeth.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/)](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
-
+   [![Linkedin Badge](https://img.shields.io/badge/-navaneeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navaneeth-dinesh-216a45175/)](https://www.linkedin.com/in/navaneeth-dinesh-216a45175/) 
+   [![Medium Badge](https://img.shields.io/badge/-@v.navaneeth-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@navaneethsdk)](https://medium.com/@navaneethsdk) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.navaneeth-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.navaneethsdk@gmail.com)](mailto:v.navaneethsdk@gmail.com)
+   [![Facebook Badge](https://img.shields.io/badge/-navaneeth-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/navaneeth.dinesh.56)](https://www.facebook.com/navaneeth.dinesh.56)
+    
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Navaneeth D](https://github.com/navaneethsdk)
+    ⭐️ From ![Navaneeth D](https://github.com/navaneethsdk)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
