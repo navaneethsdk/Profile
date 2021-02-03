@@ -50,8 +50,6 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
     
   <p align="center">
     Show ❤️ by starring repositories you find good! 
-    
-    Also, star and fork this repository if you wish to give this new feature a try!
   </p>
 </p>
 
