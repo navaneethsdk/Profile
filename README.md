@@ -5,7 +5,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 ---
 
-**Currently I am working ...**
+**Currently I have recently worked ...**
 
 - <div>
     <img width="250" height="100" align='left' src="https://www.mavoix.in/img/logos/mavoix.png" >
