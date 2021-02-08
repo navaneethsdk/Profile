@@ -9,7 +9,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 - <div>
     <img width="250" height="100" align='left' src="https://www.mavoix.in/img/logos/mavoix.png" >
-    ... as an <strong>Deep Learning Intern</strong> at Mavoix Solution Pvt. Ltd. where I have been assisting in the (design and) development of a Video classification Project.
+    ... as an <strong>Deep Learning Intern</strong> at Mavoix Solution Pvt. Ltd. where I had assisted in the (design and) development of a Video classification Project.
     <br />
     <strong>View: </strong> <a href="https://www.mavoix.in/" >Mavoix Soltions</a> 
     <br /> 
@@ -18,7 +18,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 - <div>
      <img width="250" height="100" align='right' src="https://jobsnew.analyticsvidhya.com/media/company_logo/2021/01/06/AV_logo_updated.jpg" >
-     ... as a <strong>Technical Content Writer</strong> intern at Analytics Vidhya where I have penned down 2 comprehensive and detailed articles covering Deep Learning  concepts.
+     ... as a <strong>Technical Content Writer</strong> at Analytics Vidhya where I have penned down 2 comprehensive and detailed articles covering Deep Learning  concepts.
      <br />
      <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Medium</a> 
      <br /> 
