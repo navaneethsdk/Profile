@@ -1,7 +1,7 @@
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/), I'm a passionate ML/AI Enthusiast, full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
+I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.io/), a passionate ML/AI Enthusiast, full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
 
 ---
 
