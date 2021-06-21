@@ -9,7 +9,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 - <div>
     <img width="250" height="100" align='left' src="https://www.mavoix.in/img/logos/mavoix.png" >
-    ... as an <strong>Deep Learning Intern</strong> at Mavoix Solution Pvt. Ltd. where I had assisted in the (design and) development of a Video classification Project.
+    ... as a <strong>Deep Learning Intern</strong> at Mavoix Solution Pvt. Ltd. where I had assisted in the (design and) development of a Video classification Project.
     <br />
     <strong>View: </strong> <a href="https://www.mavoix.in/" >Mavoix Soltions</a> 
     <br /> 
