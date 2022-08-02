@@ -8,16 +8,16 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 **I have recently worked ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://www.mavoix.in/img/logos/mavoix.png" >
+    <img width="250" height="100" align='left' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/swpyk9n5tgeew7xoqjqe" >
     ... as a <strong>Deep Learning Intern</strong> at Mavoix Solution Pvt. Ltd. where I had assisted in the (design and) development of a Video classification Project.
     <br />
-    <strong>View: </strong> <a href="https://www.mavoix.in/" >Mavoix Soltions</a> 
+    <strong>View: </strong> <a href="https://www.mavoix.in/" >Mavoix Solutions</a> 
     <br /> 
     <br /> 
   </div>
 
 - <div>
-     <img width="250" height="100" align='right' src="https://jobsnew.analyticsvidhya.com/media/company_logo/2021/01/06/AV_logo_updated.jpg" >
+     <img width="250" height="100" align='right' src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/Analytics_Vidhya/original.png?1630616755" >
      ... as a <strong>Technical Content Writer</strong> at Analytics Vidhya where I have penned down a few comprehensive and detailed articles covering Deep Learning  concepts.
      <br />
      <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Medium</a> 
