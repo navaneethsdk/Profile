@@ -7,7 +7,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
 
 **I have recently worked ...**
 - <div>
-     <img width="250" height="100" align='right' src="[https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/Analytics_Vidhya/original.png?1630616755](https://cdn.freebiesupply.com/images/large/2x/ibm-logo-white.png)" >
+     <img width="250" height="100" align='right' src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-white.png" >
     ... as a <strong>Software Developer Intern</strong> at <b>IBM Indian Software Labs</b> where I I had assisted in the (design and) development of the App Connect feature of IBM Cloud.
      <br />
      <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Medium</a> 
