@@ -10,7 +10,7 @@ I'm [Navaneeth D](https://navaneethsdkcse2k18.github.io/navaneethdinesh.github.i
      <img width="250" height="100" align='right' src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-white.png" >
     ... as a <strong>Software Developer Intern</strong> at <b>IBM Indian Software Labs</b> where I I had assisted in the (design and) development of the App Connect feature of IBM Cloud.
      <br />
-     <strong>View: </strong> <a href="https://medium.com/@navaneethsdk" >Medium</a> 
+     <strong>View: </strong> <a href="https://www.ibm.com/in-en/cloud" >IBM Cloud</a> 
      <br /> 
    </div>
 
