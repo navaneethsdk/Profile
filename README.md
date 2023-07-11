@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navaneeth D</h1>
 <h3 align="center">Software engineer turned data aficionado, harnessing the power of code to engineer a data-driven world.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneethsdk" alt="navaneethsdk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneethsdk&theme=onedark" alt="navaneethsdk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/navaneethsdk" target="blank"><img src="https://img.shields.io/twitter/follow/navaneethsdk?logo=twitter&style=for-the-badge" alt="navaneethsdk" /></a> </p>
 
