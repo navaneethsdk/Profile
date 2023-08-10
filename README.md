@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I have a thing for carnatic and classical music**
 
+## Stats[:](https://youtu.be/dQw4w9WgXcQ)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=navaneethsdk&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navaneethsdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navaneethsdk" height="30" width="40" /></a>
