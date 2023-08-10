@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@navaneethsdk](https://medium.com/@navaneethsdk)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - 📄 Know more about me [https://linktr.ee/navaneethsdk](https://linktr.ee/navaneethsdk)
 
