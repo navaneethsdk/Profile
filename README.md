@@ -15,7 +15,7 @@
 
 ## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=navaneethsdk&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)](https://redisa.dev) 
+![GitHub Streak](https://streak-stats.demolab.com?user=navaneethsdk&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
