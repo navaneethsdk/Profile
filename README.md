@@ -17,6 +17,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navaneethsdk&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethsdk&hide=jupyter%20notebook&theme=radical&layout=donut)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navaneethsdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navaneethsdk" height="30" width="40" /></a>
