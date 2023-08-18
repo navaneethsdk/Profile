@@ -17,7 +17,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navaneethsdk&theme=radical&hide_border=true&border_radius=6&mode=weekly&background=141320&border=DDDDDD)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethsdk&hide=jupyter%20notebook&theme=radical&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethsdk&theme=radical&hide=html,css&layout=donut&size_weight=0.2&count_weight=0.8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
